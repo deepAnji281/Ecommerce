@@ -1,0 +1,36 @@
+.product-summary {
+    display: flex;
+    margin-top: 10px;
+    color: gray;
+    font-style: italic;
+    text-transform: capitalize;
+    height: 294px;
+    width: 750px;
+    border: 2px solid black;
+    margin-left: 7px;
+    border-radius: 5px;
+    text-align: center;
+
+
+}
+
+.product-card img {
+    height: 290px;
+    width: 250px;
+    border-radius: 5px;
+    margin-left: 7px;
+
+
+}
+
+.product-history {
+    width: 500px;
+    height: 290px;
+    border: 2px solid gray;
+}
+
+.shopping-details {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

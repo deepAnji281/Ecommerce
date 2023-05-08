@@ -1,0 +1,14 @@
+.home-template img{
+    height: 400px;
+    width:1270px;
+    margin-left:7px;
+    margin-top: 4px;
+
+}
+.row-template{
+    display: flex;
+    flex-wrap: wrap;
+    gap:3px;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,52 @@
+.card{
+    height: 590px;
+    width: 620px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: relative;
+}
+.product-cart{
+    text-align: center;
+    color:gray;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.card-title{
+    color:brown;
+    font-size:28px;
+    
+}
+.card img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left:190px;
+    top:20px;
+    border-radius: 20px;
+    
+}
+.card-body{
+    position: absolute;
+    top:220px;
+}
+
+.card-body button{
+    width: 250px;
+    border-radius: 15px;
+    font-size: 20px;
+    color:greenyellow;
+    font-style: italic;
+}
+small{
+    color:pink;
+    font-size: xx-large;
+}
+strong{
+    color:coral;
+    font-size: xx-large;
+    font-weight: 400;
+    
+}

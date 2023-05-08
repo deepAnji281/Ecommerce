@@ -1,0 +1,126 @@
+.header {
+    height: 70px;
+    width: 1280px;
+    background-color: black;
+    margin-left: 3px;
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+.header-logo {
+    position: relative;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-logo img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    position: absolute;
+    left: 150px;
+    text-align: center;
+}
+
+.header-title {
+    color: white;
+    margin-left: 10px;
+    
+
+}
+
+.header-search-bar {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.search-bar {
+    color: green;
+    font-size: large;
+    font-weight: bolder;
+    position: absolute;
+    left: 370px;
+
+}
+
+.header-search-bar input {
+    height: 35px;
+    border-radius: 35px;
+    width: 400px;
+    background-color: bisque;
+    color: gray;
+    font-size: large;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+.header-navigation-bar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Nav-item {
+    display: flex;
+    gap: 2rem;
+}
+
+.Nav-item span {
+    color: brown;
+    font-weight: bolder;
+    font-size: large;
+
+
+}
+
+.flag {
+    height: 30px;
+    width: 50px;
+    font-size: larger;
+    color: crimson;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.nav-item .span {
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 30px;
+    font-size: large;
+
+}
+
+.shopping-details {
+    position: relative;
+}
+
+.shopping-details img {
+    height: 25px;
+    margin-left: 30px;
+    border-radius: 50%;
+
+
+}
+
+.shopping-details h5 {
+    position: absolute;
+    top: -15px;
+    color:red;
+    left: 50px;
+    font-size: large
+
+
+
+    ;
+}

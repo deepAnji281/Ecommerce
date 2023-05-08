@@ -1,0 +1,12 @@
+.checkout-left img{
+    width: 850px;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 7px;
+    border-radius: 15px;
+
+}
+.checkout{
+    display: flex;
+    gap:30px;
+}

@@ -1,0 +1,22 @@
+.subtotal{
+    height: 200px;
+    width: 350px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    color:blue;
+    font-style: italic;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    gap:4px;
+    align-items: center;
+    margin-top: 5px;
+    
+}
+.subtotal button{
+    width: 200px;
+    border-radius: 15px;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: large;
+}
